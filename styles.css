@@ -43,6 +43,7 @@ footer ul{
     gap: 40px;
     padding: 0;
     margin: 0;
+    padding-left: 30px;
     flex-wrap: wrap;
 }
 footer a {
@@ -208,4 +209,5 @@ body .txt-b{
     width: 32%; /* tre imazhe për rresht */
   }
 }
+
 
