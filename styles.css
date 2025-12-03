@@ -195,7 +195,7 @@ body .txt-b{
 @media (min-width: 601px) and (max-width: 1024px) {
   body .images img,
   body .a-images img {
-    width: 48%; /* dy imazhe për rresht */
+    width: 48%; 
   }
 
   body .title h1 {
@@ -205,7 +205,8 @@ body .txt-b{
 @media (min-width: 1025px) {
   body .images img,
   body .a-images img {
-    width: 32%; /* tre imazhe për rresht */
+    width: 32%; 
   }
 }
+
 
